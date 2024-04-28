@@ -1,2 +1,2 @@
 # curriculo-pessoal-simples
- Currículo pessoal
+ Currículo pessoalem desenvolvimento
